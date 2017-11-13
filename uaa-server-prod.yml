@@ -36,5 +36,5 @@ spring:
         enabled: true
 
 fehash:
-  value: xx99999xxx
-  url: 22xxxx222http://fe.iodsp.org
+  value: dddddj
+  url: iodsp
