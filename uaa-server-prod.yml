@@ -30,7 +30,7 @@ spring:
       kafka:
         binder:
           brokers: "${SPRING_BUS_KAFKA_BROKER_LIST}"
-            zkNodes: "${SPRING_BUS_ZK_NODE_LIST}"
+          zkNodes: "${SPRING_BUS_ZK_NODE_LIST}"
     bus:
       trace:
         enabled: true
