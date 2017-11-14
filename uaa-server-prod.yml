@@ -1,11 +1,5 @@
-debug: true
-
 server:
   port: 9999
-
-logging:
-  level:
-    root: INFO
 
 spring:
   freemarker:
