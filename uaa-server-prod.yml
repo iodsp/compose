@@ -30,8 +30,8 @@ spring:
         enabled: true
 
 fehash:
-  value: dddddj
-  url: iodsp
+  value: 33f50cc
+  url: http://fe.iodsp.org
 
 logging:
   level:
